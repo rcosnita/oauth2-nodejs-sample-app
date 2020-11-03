@@ -1,0 +1,17 @@
+{
+  "name": "oauth2-nodejs-sample-app",
+  "version": "1.0.0",
+  "description": "Provides a simple example for enabling OAuth 2 authorization in an express app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "passport": "^0.4.1",
+    "passport-oauth2": "^1.5.0"
+  }
+}
